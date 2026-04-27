@@ -1,7 +1,7 @@
 # 🛠️ Command-Line-Tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](.)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](./TODO.md)
 > 💻 Коллекция консольных утилит и инструментов для автоматизации на разных языках.  
 > От простых скриптов и парсеров до мощных TUI-приложений и CLI-фреймворков.
 
